@@ -109,3 +109,27 @@ int float str bool
           if语句需要一个判断条件,这个判断条件的结果需要一个布尔值.
           如果此时输入的判断条件不是一个布尔值,在代码执行的过程中,会将这个值自动转换成一个布尔值.
           在Python中,只有0,"",'',None,(),{},[]会被转换成False,其他都会被转换成True
+
+### 循环
+      循环:
+         场景:
+            1. 用户名和密码,反复输入
+            2. 计算1-100
+            3.游戏,死了重生
+            ...
+            方式:
+              1. while
+                 2. for
+            格式:
+                 1. while格式
+                     while 条件:
+                         要循环执行的代码
+                 2. for格式
+                     for i in range(n):
+                        循环体中的内容
+            range():
+               range(stop):[0,stop)
+               range(start,stop):[start,stop)
+               range(start,stop,step):
+                  [start,stop),
+                  step为步长(增量),默认为1
