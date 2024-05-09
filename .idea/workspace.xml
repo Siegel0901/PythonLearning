@@ -6,8 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="351197c4-a8b3-4b34-8ef8-f6d006ed6457" name="Changes" comment="循环语句">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/08_loop_statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08_loop_statement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/01_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/01_variable/01_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/02_data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/02_data_type/01_data_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/03_type_cast.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/03_type_cast/01_type_cast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/04_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/04_operator/01_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/05_output_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/05_output_formatting/01_output_formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/06_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/06_binary/01_binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/07_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/07_if/01_if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/08_loop_statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08_loop_statement/01_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/08_loop_statement/02_practice_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08_loop_statement/02_practice_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/08_loop_statement/03_practice_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08_loop_statement/03_practice_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/08_loop_statement/04_practice_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08_loop_statement/04_practice_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/08_loop_statement/06_practice_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08_loop_statement/06_practice_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/08_loop_statement/08_practice_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/08_loop_statement/08_practice_for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +59,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.02_data_type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_type_cast.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_loop_statement.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_operator.executor": "Run",
+    "Python.02_data_type.executor": "Run",
+    "Python.02_if_else.executor": "Run",
+    "Python.03_type_cast.executor": "Run",
+    "Python.04_nested_if.executor": "Run",
+    "Python.04_operator.executor": "Run",
+    "Python.05_output_formatting.executor": "Run",
+    "Python.05_ternary_operator.executor": "Run",
+    "Python.06_binary.executor": "Run",
+    "Python.08_loop_statement.executor": "Run",
+    "Python.if_elif_else.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.08_loop_statement">
-    <configuration name="02_data_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\08_loop_statement" />
+      <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\07_if" />
+      <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\06_binary" />
+      <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\05_output_formatting" />
+      <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\01_output_formatting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.05_ternary_operator">
+    <configuration name="01_binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +107,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/02_data_type.py" />
+      <option name="SCRIPT_NAME" value="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\06_binary\01_binary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_type_cast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,12 +125,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/07_if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/03_type_cast.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/07_if/02_if_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_loop_statement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_if_elif_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,12 +148,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/07_if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/08_loop_statement.py" />
+      <option name="SCRIPT_NAME" value="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\07_if\03_if_elif_else.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_nested_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/07_if" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/07_if/04_nested_if.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_ternary_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/07_if" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/07_if/05_ternary_operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,9 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.08_loop_statement" />
-        <item itemvalue="Python.03_type_cast" />
-        <item itemvalue="Python.02_data_type" />
+        <item itemvalue="Python.05_ternary_operator" />
+        <item itemvalue="Python.04_nested_if" />
+        <item itemvalue="Python.03_if_elif_else" />
+        <item itemvalue="Python.02_if_else" />
+        <item itemvalue="Python.01_binary" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +240,8 @@
       <workItem from="1714988241143" duration="1131000" />
       <workItem from="1714989393512" duration="466000" />
       <workItem from="1715131433040" duration="3579000" />
-      <workItem from="1715144023754" duration="3564000" />
+      <workItem from="1715144023754" duration="3798000" />
+      <workItem from="1715216243253" duration="4804000" />
     </task>
     <task id="LOCAL-00001" summary="变量学习">
       <option name="closed" value="true" />
@@ -206,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714989834361</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="循环语句">
+      <option name="closed" value="true" />
+      <created>1715162417376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715162417376</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +302,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -231,7 +328,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonLearning$02_data_type.coverage" NAME="02_data_type Coverage Results" MODIFIED="1714374387342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonLearning$08_loop_statement.coverage" NAME="08_loop_statement Coverage Results" MODIFIED="1715162257992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/PythonLearning$08_loop_statement.coverage" NAME="08_loop_statement Coverage Results" MODIFIED="1715221032311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/PythonLearning$05_ternary_operator.coverage" NAME="05_ternary_operator Coverage Results" MODIFIED="1715221714359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/07_if" />
+    <SUITE FILE_PATH="coverage/PythonLearning$05_output_formatting.coverage" NAME="05_output_formatting Coverage Results" MODIFIED="1715221164443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonLearning$03_type_cast.coverage" NAME="03_type_cast Coverage Results" MODIFIED="1714374871276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/PythonLearning$02_if_else.coverage" NAME="02_if_else Coverage Results" MODIFIED="1715221530268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/07_if" />
+    <SUITE FILE_PATH="coverage/PythonLearning$06_binary.coverage" NAME="06_binary Coverage Results" MODIFIED="1715221167191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/PythonLearning$04_nested_if.coverage" NAME="04_nested_if Coverage Results" MODIFIED="1715221640109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/07_if" />
+    <SUITE FILE_PATH="coverage/PythonLearning$if_elif_else.coverage" NAME="if_elif_else Coverage Results" MODIFIED="1715221561974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/07_if" />
+    <SUITE FILE_PATH="coverage/PythonLearning$04_operator.coverage" NAME="01_operator Coverage Results" MODIFIED="1715221093464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
   </component>
 </project>

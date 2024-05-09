@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time : 2024/5/2 10:39
 # @Author : Siegel
-# @File : 06_binary.py
+# @File : 01_binary.py
 # @Software : PyCharm
 """
 二进制:
