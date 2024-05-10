@@ -118,18 +118,37 @@ int float str bool
             3.游戏,死了重生
             ...
             方式:
-              1. while
-                 2. for
+               1. while
+                  2. for
             格式:
-                 1. while格式
-                     while 条件:
-                         要循环执行的代码
-                 2. for格式
+               1. while格式
+                  while 条件:
+                     要循环执行的代码
+               2. for格式
+                  for i in range(n):
+                     循环体中的内容
+               3. range():
+                     range(stop):[0,stop)
+                     range(start,stop):[start,stop)
+                     range(start,stop,step):
+                     [start,stop),
+                     step为步长(增量),默认为1
+               4. for...else格式:
+                  for i in range(n):
+                     循环体
+                  else:
+                     如果上面的for循环0~n-1没有出现中断(break),执行else部分
+               5. while...else格式:
+                  while 循环条件:
+                     循环体
+                  else:
+                     如果上面的循环中没有出现中断(break),执行else部分
+               6.1 循环嵌套:
+                  1. while嵌套
+                     while 循环条件:
+                        while 循环条件:
+                           执行语句
+                  2. for嵌套
                      for i in range(n):
-                        循环体中的内容
-            range():
-               range(stop):[0,stop)
-               range(start,stop):[start,stop)
-               range(start,stop,step):
-                  [start,stop),
-                  step为步长(增量),默认为1
+                        for j in range(n):
+                           执行语句
