@@ -186,3 +186,71 @@ int float str bool
          index
          rindex
          index与find的区别:找不到符合要求的会报错,不会返回-1
+      6. 计数
+         count
+      7. 判断
+         startswith
+            判断是否以xxx开头
+         endswith
+            判断是否以xxx结尾
+         isalpha
+            判断是否全为字母
+         isdigit
+            判断是否全为数字
+         isalnum
+            判断是否为字母或数字
+         isspace
+            判断是否为空格
+         isupper
+            判断是否全为大写字母
+         islower
+            判断是否全为小写字母
+         返回值都是布尔类型的(True or False)
+      8. 替换内容:
+         replace(old, new, count)
+            old:被替换词
+            new:替换词
+            count:替换个数(默认全部替换)
+      9. 切割字符串
+          split
+              split(sep,maxsplit)
+                  sep:分隔符
+                  maxsplit:最多分割次数
+                  返回的结果是一个列表
+          rsplit
+              right split
+          splitlines
+              按照行分割
+              返回结果是一个列表
+          partition
+              按照分隔符分为三部分
+          rpartition
+              right partition
+      10. 大小写转换:
+          upper
+              全部转换为大写
+          lower
+              全部转换为小写
+          title
+              单词首字母大写
+          capitalize
+              字符串首字母大写
+      11. 空格处理:
+          添加空格控制字符串的对齐方式
+              ljust
+                  左对齐
+              rjust
+                  右对齐
+              center
+                  居中对齐
+          删除字符串左侧或右侧的空格
+              strip
+                  去除字符串两侧的空格
+              lstrip
+                  去除字符串左侧的空格
+              rstrip
+                  去除字符串右侧的空格
+      12. format格式化:
+         使用数字填充,从0开始计数
+         使用变量名填充,format的参数必须是关键字参数
+### 列表
