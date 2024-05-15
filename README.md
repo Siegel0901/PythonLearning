@@ -254,3 +254,45 @@ int float str bool
          使用数字填充,从0开始计数
          使用变量名填充,format的参数必须是关键字参数
 ### 列表
+      如何定义一个列表:
+          1. 空列表: []
+          2. 有内容的列表
+              ['A', 'B', 'C']
+              [1, 2, 3]
+              [3.5, 4.5, 5.5]
+              [['A', 'B', 'C'], [1, 2, 3], []]
+      添加元素:
+          append(value):追加,类似排队
+          extend(list):合并延长列表
+          insert(index,value):插入
+          index(value):根据元素值返回找到的第一个符合要求的元素位置
+      删除元素
+          pop
+              pop(index):
+                  根据下标删除列表中的元素,下标写的时候注意不要超出范围(报错IndexError:index out of range)
+              pop():
+                  从后往前删除
+          remove
+              remove(value):
+                  根据元素值删除列表中的元素,如果删除的元素不存在则(报错ValueError:list.remove(x):x not in list)
+                  如果列表中存在多个值相等的元素,只删除遇到的第一个元素,后面的元素不会被删除
+              关键字in:
+                  元素 in 列表
+                  表示元素是否在列表中? 返回bool类型
+          clear
+              清空列表元素
+          del list[index]
+              根据下标删除元素
+          del list
+              删除指向列表的指针list
+      查找:
+          1. 元素 (not) in 列表
+              返回bool类型
+          2. 列表.index(元素)
+              返回元素的下标位置,如果没有此元素则报错
+          3. 列表.count(元素)
+              存在返回个数,不存在返回0
+      排序
+          sort默认升序,可以通过reverse参数控制升序还是降序
+          reverse=True    降序
+          reverse=False   升序
