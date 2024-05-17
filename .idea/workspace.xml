@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351197c4-a8b3-4b34-8ef8-f6d006ed6457" name="Changes" comment="python列表学习">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basic/11_tuple/01_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/11_tuple/01_tuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,14 +108,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\10_list" />
       <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\08_loop_statement" />
       <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\07_if" />
       <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\06_binary" />
       <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\05_output_formatting" />
-      <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\01_output_formatting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11_practice_crud">
+  <component name="RunManager" selected="Python.01_tuple">
     <configuration name="01_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
@@ -234,8 +233,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11_practice_crud" />
         <item itemvalue="Python.01_tuple" />
+        <item itemvalue="Python.11_practice_crud" />
         <item itemvalue="Python.10_bubble_sort" />
         <item itemvalue="Python.09_swap" />
         <item itemvalue="Python.08_practice_sort" />
@@ -271,7 +270,7 @@
       <workItem from="1715752483528" duration="12428000" />
       <workItem from="1715822912033" duration="5653000" />
       <workItem from="1715853631787" duration="44000" />
-      <workItem from="1715909612104" duration="4492000" />
+      <workItem from="1715909612104" duration="4862000" />
     </task>
     <task id="LOCAL-00001" summary="变量学习">
       <option name="closed" value="true" />
@@ -377,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715853651212</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="python列表学习">
+      <option name="closed" value="true" />
+      <created>1715914159204</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715914159205</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +438,7 @@
     <SUITE FILE_PATH="coverage/PythonLearning$if_elif_else.coverage" NAME="if_elif_else Coverage Results" MODIFIED="1715221561974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/07_if" />
     <SUITE FILE_PATH="coverage/PythonLearning$10_upper_lower.coverage" NAME="10_upper_lower Coverage Results" MODIFIED="1715330623411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
     <SUITE FILE_PATH="coverage/PythonLearning$07_sort.coverage" NAME="07_sort_reverse Coverage Results" MODIFIED="1715766745367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
-    <SUITE FILE_PATH="coverage/PythonLearning$01_tuple.coverage" NAME="01_tuple Coverage Results" MODIFIED="1715910918427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/11_tuple" />
+    <SUITE FILE_PATH="coverage/PythonLearning$01_tuple.coverage" NAME="01_tuple Coverage Results" MODIFIED="1715914493580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/11_tuple" />
     <SUITE FILE_PATH="coverage/PythonLearning$13_practice_all.coverage" NAME="13_practice_all Coverage Results" MODIFIED="1715753202144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
     <SUITE FILE_PATH="coverage/PythonLearning$04_delete__1_.coverage" NAME="04_delete (1) Coverage Results" MODIFIED="1715764758769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
     <SUITE FILE_PATH="coverage/PythonLearning$12_break_continue.coverage" NAME="12_break_continue Coverage Results" MODIFIED="1715318551098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/08_loop_statement" />
