@@ -51,6 +51,7 @@
     "Python.01_create (1).executor": "Run",
     "Python.01_create.executor": "Run",
     "Python.01_create_index_slice.executor": "Run",
+    "Python.01_iterator.executor": "Run",
     "Python.01_list.executor": "Run",
     "Python.01_operator.executor": "Run",
     "Python.01_string.executor": "Run",
@@ -63,6 +64,7 @@
     "Python.02_create.executor": "Run",
     "Python.02_crud.executor": "Run",
     "Python.02_data_type.executor": "Run",
+    "Python.02_dictionary.executor": "Run",
     "Python.02_if_else.executor": "Run",
     "Python.02_index.executor": "Run",
     "Python.02_index_slice.executor": "Run",
@@ -71,6 +73,7 @@
     "Python.03_delete.executor": "Run",
     "Python.03_find.executor": "Run",
     "Python.03_practice_create.executor": "Run",
+    "Python.03_set.executor": "Run",
     "Python.03_type_cast.executor": "Run",
     "Python.03_update.executor": "Run",
     "Python.04_copy.executor": "Run",
@@ -80,6 +83,7 @@
     "Python.04_nested_if.executor": "Run",
     "Python.04_operator.executor": "Run",
     "Python.04_practice_delete_repeat.executor": "Run",
+    "Python.04_tuple.executor": "Run",
     "Python.05_difference.executor": "Run",
     "Python.05_feature.executor": "Run",
     "Python.05_judge.executor": "Run",
@@ -131,6 +135,8 @@
     "Python.17_pop.executor": "Run",
     "Python.17_union.executor": "Run",
     "Python.18_popitem.executor": "Run",
+    "Python.18_update.executor": "Run",
+    "Python.19_len.executor": "Run",
     "Python.if_elif_else.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -152,8 +158,8 @@
       <recent name="D:\Program Files\ProjectSpace\PyCharmProject\PythonLearning\Basic\07_if" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.18_update">
-    <configuration name="05_difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_iterator">
+    <configuration name="01_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/13_set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/15_iterator_generator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/13_set/05_difference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/15_iterator_generator/01_iterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15_symmetric_difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,12 +191,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/13_set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/14_comprehensions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/13_set/15_symmetric_difference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/14_comprehensions/01_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16_symmetric_difference_update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,12 +214,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/13_set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/14_comprehensions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/13_set/16_symmetric_difference_update.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/14_comprehensions/02_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17_union" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,12 +237,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/13_set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/14_comprehensions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/13_set/17_union.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/14_comprehensions/03_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18_update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,12 +260,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/13_set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic/14_comprehensions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/13_set/18_update.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/14_comprehensions/04_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.18_update" />
-        <item itemvalue="Python.17_union" />
-        <item itemvalue="Python.16_symmetric_difference_update" />
-        <item itemvalue="Python.05_difference" />
-        <item itemvalue="Python.15_symmetric_difference" />
+        <item itemvalue="Python.01_iterator" />
+        <item itemvalue="Python.04_tuple" />
+        <item itemvalue="Python.03_set" />
+        <item itemvalue="Python.02_dictionary" />
+        <item itemvalue="Python.01_list" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +315,7 @@
       <workItem from="1715853631787" duration="44000" />
       <workItem from="1715909612104" duration="14537000" />
       <workItem from="1716167176425" duration="3274000" />
-      <workItem from="1716263071697" duration="5776000" />
+      <workItem from="1716263071697" duration="8044000" />
     </task>
     <task id="LOCAL-00001" summary="变量学习">
       <option name="closed" value="true" />
@@ -463,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716264394858</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="python集合学习">
+      <option name="closed" value="true" />
+      <created>1716271564646</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716271564646</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,9 +524,11 @@
     <SUITE FILE_PATH="coverage/PythonLearning$05_ternary_operator.coverage" NAME="05_ternary_operator Coverage Results" MODIFIED="1715221714359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/07_if" />
     <SUITE FILE_PATH="coverage/PythonLearning$06_function.coverage" NAME="06_function Coverage Results" MODIFIED="1715923899536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
     <SUITE FILE_PATH="coverage/PythonLearning$09_split.coverage" NAME="09_split Coverage Results" MODIFIED="1715330282432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
-    <SUITE FILE_PATH="coverage/PythonLearning$01_list.coverage" NAME="01_create_index_slice Coverage Results" MODIFIED="1715754114578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
+    <SUITE FILE_PATH="coverage/PythonLearning$01_list.coverage" NAME="01_list Coverage Results" MODIFIED="1716284116759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/14_comprehensions" />
     <SUITE FILE_PATH="coverage/PythonLearning$03_delete.coverage" NAME="04_delete Coverage Results" MODIFIED="1715764443278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
     <SUITE FILE_PATH="coverage/PythonLearning$02_if_else.coverage" NAME="02_if_else Coverage Results" MODIFIED="1715221530268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/07_if" />
+    <SUITE FILE_PATH="coverage/PythonLearning$04_tuple.coverage" NAME="04_tuple Coverage Results" MODIFIED="1716284616901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/14_comprehensions" />
+    <SUITE FILE_PATH="coverage/PythonLearning$01_iterator.coverage" NAME="01_iterator Coverage Results" MODIFIED="1716285087277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/15_iterator_generator" />
     <SUITE FILE_PATH="coverage/PythonLearning$02_clear.coverage" NAME="02_clear Coverage Results" MODIFIED="1716263954508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/13_set" />
     <SUITE FILE_PATH="coverage/PythonLearning$06_binary.coverage" NAME="06_binary Coverage Results" MODIFIED="1715221167191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PythonLearning$10_upper_lower.coverage" NAME="10_upper_lower Coverage Results" MODIFIED="1715330623411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
@@ -524,6 +540,7 @@
     <SUITE FILE_PATH="coverage/PythonLearning$12_break_continue.coverage" NAME="12_break_continue Coverage Results" MODIFIED="1715318551098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/08_loop_statement" />
     <SUITE FILE_PATH="coverage/PythonLearning$10_isdisjoint.coverage" NAME="10_isdisjoint Coverage Results" MODIFIED="1716268745273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/13_set" />
     <SUITE FILE_PATH="coverage/PythonLearning$03_update.coverage" NAME="03_update Coverage Results" MODIFIED="1715915670590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/11_tuple" />
+    <SUITE FILE_PATH="coverage/PythonLearning$18_update.coverage" NAME="18_update Coverage Results" MODIFIED="1716271377982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/13_set" />
     <SUITE FILE_PATH="coverage/PythonLearning$03_practice_create.coverage" NAME="03_practice_create Coverage Results" MODIFIED="1715756796088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
     <SUITE FILE_PATH="coverage/PythonLearning$15_update.coverage" NAME="15_update Coverage Results" MODIFIED="1716168213656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
     <SUITE FILE_PATH="coverage/PythonLearning$14_values.coverage" NAME="14_values Coverage Results" MODIFIED="1716197607219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
@@ -534,6 +551,7 @@
     <SUITE FILE_PATH="coverage/PythonLearning$06_judge_practice.coverage" NAME="06_judge_practice Coverage Results" MODIFIED="1715326958697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
     <SUITE FILE_PATH="coverage/PythonLearning$04_practice_delete_repeat.coverage" NAME="04_practice_delete_repeat Coverage Results" MODIFIED="1715763370527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
     <SUITE FILE_PATH="coverage/PythonLearning$11_key_in_dict.coverage" NAME="11_key_in_dict Coverage Results" MODIFIED="1715928029236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
+    <SUITE FILE_PATH="coverage/PythonLearning$19_len.coverage" NAME="19_len Coverage Results" MODIFIED="1716271544488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/13_set" />
     <SUITE FILE_PATH="coverage/PythonLearning$04_count.coverage" NAME="04_count Coverage Results" MODIFIED="1715323536230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
     <SUITE FILE_PATH="coverage/PythonLearning$09_fromkeys.coverage" NAME="09_fromkeys Coverage Results" MODIFIED="1715925923634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
     <SUITE FILE_PATH="coverage/PythonLearning$02_access.coverage" NAME="02_access Coverage Results" MODIFIED="1715915094663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/11_tuple" />
@@ -542,6 +560,7 @@
     <SUITE FILE_PATH="coverage/PythonLearning$11_practice_all.coverage" NAME="11_practice_all Coverage Results" MODIFIED="1715312717233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/08_loop_statement" />
     <SUITE FILE_PATH="coverage/PythonLearning$05_feature.coverage" NAME="05_feature Coverage Results" MODIFIED="1715917208400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
     <SUITE FILE_PATH="coverage/PythonLearning$08_practice_sort.coverage" NAME="08_practice_sort Coverage Results" MODIFIED="1715766774262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
+    <SUITE FILE_PATH="coverage/PythonLearning$03_set.coverage" NAME="03_set Coverage Results" MODIFIED="1716284563548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/14_comprehensions" />
     <SUITE FILE_PATH="coverage/PythonLearning$09_swap.coverage" NAME="09_swap Coverage Results" MODIFIED="1715823506128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/10_list" />
     <SUITE FILE_PATH="coverage/PythonLearning$01_string.coverage" NAME="01_string_pool Coverage Results" MODIFIED="1715320500600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
     <SUITE FILE_PATH="coverage/PythonLearning$10_get.coverage" NAME="10_get Coverage Results" MODIFIED="1716167660188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
@@ -571,6 +590,7 @@
     <SUITE FILE_PATH="coverage/PythonLearning$05_difference.coverage" NAME="05_difference Coverage Results" MODIFIED="1716270539037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/13_set" />
     <SUITE FILE_PATH="coverage/PythonLearning$01_create__1_.coverage" NAME="01_create (1) Coverage Results" MODIFIED="1715916279885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
     <SUITE FILE_PATH="coverage/PythonLearning$05_judge.coverage" NAME="05_judge Coverage Results" MODIFIED="1715327875187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
+    <SUITE FILE_PATH="coverage/PythonLearning$02_dictionary.coverage" NAME="02_dictionary Coverage Results" MODIFIED="1716284328107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/14_comprehensions" />
     <SUITE FILE_PATH="coverage/PythonLearning$08_intersection.coverage" NAME="08_intersection Coverage Results" MODIFIED="1716268356133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/13_set" />
     <SUITE FILE_PATH="coverage/PythonLearning$03_find.coverage" NAME="03_find Coverage Results" MODIFIED="1715323339191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/09_string" />
     <SUITE FILE_PATH="coverage/PythonLearning$13_keys.coverage" NAME="13_keys Coverage Results" MODIFIED="1715928449490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic/12_dictionary" />
