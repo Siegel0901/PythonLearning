@@ -9,8 +9,8 @@ Python Set copy()方法
 返回值
     返回拷贝的集合
 """
-sites = {"Google", "Runoob", "Taobao"}
 # 打印集合中元素的顺序是随机的
+sites = {"Google", "Runoob", "Taobao"}
 print(sites)
 x = sites.copy()
 print(x)

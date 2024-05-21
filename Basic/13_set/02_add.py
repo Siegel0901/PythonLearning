@@ -5,9 +5,9 @@ Python Set add()方法
 语法
     set.add(element)
 参数
-element--必需,要添加的元素
+    element 必需,要添加的元素
 返回值
-无
+    无
 """
 fruits = {"apple", "banana", "cherry"}
 fruits.add("orange")

@@ -14,6 +14,6 @@ fruits = {"apple", "banana", "cherry"}
 fruits.clear()
 print(fruits)
 
-# 空字典是{},空集合是set()
+# 空字典是{}, 空集合是set()
 d = {}
 print(d)

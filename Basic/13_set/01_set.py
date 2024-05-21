@@ -31,7 +31,7 @@ print('crabgrass' in basket)
 
 print("".center(50, "-"))
 
-# 下面展示两个集合间的运算.
+# 下面展示两个集合间的运算
 a = set('abracadabra')
 b = set('alacazam')
 # 集合a
