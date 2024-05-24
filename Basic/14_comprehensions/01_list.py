@@ -39,3 +39,7 @@ for x in range(10):
             if y % 2 != 0:
                 list2.append((x, y))
 print(list2)
+
+# 如果需要在推导式中使用if...else语句,则if...else需要放到for循环前面
+list3 = [(t[0] + 1, t[1] - 1) if t[0] <= 5 else (t[0] - 1, t[1] + 1) for t in list2]
+print(list3)
