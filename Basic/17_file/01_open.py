@@ -37,4 +37,22 @@ mode参数:
     a+	打开一个文件用于读写 如果该文件已存在,文件指针将会放在文件的结尾 文件打开时会是追加模式 如果该文件不存在,创建新文件用于读写
     ab+	以二进制格式打开一个文件用于追加 如果该文件已存在,文件指针将会放在文件的结尾 如果该文件不存在,创建新文件用于读写
     默认为文本模式,如果要以二进制模式打开,加上b
+文本文件和二进制文件:
+    文本文件:
+        .txt格式的纯文本文件
+    二进制文件:
+        纯文本文件、图片、音乐、电影等文件
 """
+
+"""
+close()方法
+    用于关闭一个已打开的文件。关闭后的文件不能再进行读写操作，否则会触发ValueError错误。close()方法允许调用多次。
+    当file对象，被引用到操作另外一个文件时，Python会自动关闭之前的file对象。使用close()方法关闭文件是一个好的习惯。
+"""
+text_file = open("../17_file/file/test1.txt", "rt")
+print(type(text_file))
+text_file.close()
+
+pic_file = open("../17_file/file/avatar.jpg", "rb")
+print(type(pic_file))
+pic_file.close()
