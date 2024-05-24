@@ -5,4 +5,30 @@
     <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/Basic/01_variable" />
+        <option value="$MODULE_DIR$/Basic/02_data_type" />
+        <option value="$MODULE_DIR$/Basic/03_type_cast" />
+        <option value="$MODULE_DIR$/Basic/04_operator" />
+        <option value="$MODULE_DIR$/Basic/05_output_formatting" />
+        <option value="$MODULE_DIR$/Basic/06_binary" />
+        <option value="$MODULE_DIR$/Basic/07_if" />
+        <option value="$MODULE_DIR$/Basic/08_loop_statement" />
+        <option value="$MODULE_DIR$/Basic/09_string" />
+        <option value="$MODULE_DIR$/Basic/10_list" />
+        <option value="$MODULE_DIR$/Basic/11_tuple" />
+        <option value="$MODULE_DIR$/Basic/12_dictionary" />
+        <option value="$MODULE_DIR$/Basic/13_set" />
+        <option value="$MODULE_DIR$/Basic/14_comprehensions" />
+        <option value="$MODULE_DIR$/Basic/15_ergodic" />
+        <option value="$MODULE_DIR$/Basic/16_function" />
+        <option value="$MODULE_DIR$/Basic/17_file" />
+        <option value="$MODULE_DIR$/Basic/18_os" />
+        <option value="$MODULE_DIR$/Basic/19_exception" />
+        <option value="$MODULE_DIR$/Basic/20_iterator_generator" />
+      </list>
+    </option>
+  </component>
 </module>
