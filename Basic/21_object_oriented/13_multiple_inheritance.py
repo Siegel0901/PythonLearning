@@ -14,6 +14,10 @@
     需要注意圆括号中父类的顺序
         若是父类中有相同的方法名,而在子类使用时未指定,python从左至右搜索
         即方法在子类中未找到时,从左到右查找父类中是否包含方法
+method resolution order(mro):
+    方法解析顺序:广度优先搜索
+        1. inspect.getmro(cls)
+        2. cls.__mro__
 """
 
 
@@ -77,3 +81,10 @@ class Sample(Programmer, Student):
 test = Sample("siegel", 24, 1, "nankai", "Python")
 # 方法名相同,默认调用的是在括号中参数位置排前父类的方法
 test.speak()
+
+# mro
+import inspect
+
+# "Return tuple of base classes (including cls) in method resolution order."
+print(inspect.getmro(Sample))
+print(Sample.__mro__)

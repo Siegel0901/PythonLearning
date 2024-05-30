@@ -44,7 +44,6 @@ this is __new__ method.
 this is __init__ method.
 """
 person = Person()
-print("".center(60, '-'))
 """
 粗略理解为:先调用__new__,再调用__init__
 obj = __new__(Person)
@@ -54,31 +53,8 @@ __init__(obj)
 如果不需要客制化建立这个object的过程,只需要初始化这个object,则只需要用到__init__
 """
 
-"""
-用__new__的场景:单例模式
-    单例模式是指在整个应用程序中,某个类只能有一个实例存在,且该实例可被任何模块访问到.
-    这种模式的应用场景包括数据库连接池、日志对象等需要全局唯一性的对象
-"""
-
-
-class Singleton:
-    # 私有类变量_instance
-    _instance = None
-
-    def __new__(cls):
-        # 检查_instance是否为None
-        if not cls._instance:
-            # 如果是None,则创建一个新的实例并将其分配给_instance
-            cls._instance = super().__new__(cls)
-        # 否则直接返回_instance,保证只有一个Singleton实例
-        return cls._instance
-
-
-s1 = Singleton()
-s2 = Singleton()
-# 输出结果为True,说明s1和s2引用的是同一个实例,则单例模式实现成功
-print(s1 is s2)  # True
 print("".center(60, '-'))
+
 """
 __call__:
     如果想把实例当做函数使用,则需重写__call__方法
