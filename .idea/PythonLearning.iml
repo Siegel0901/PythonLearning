@@ -29,6 +29,7 @@
         <option value="$MODULE_DIR$/Basic/19_exception" />
         <option value="$MODULE_DIR$/Basic/20_iterator_generator" />
         <option value="$MODULE_DIR$/Basic/21_object_oriented" />
+        <option value="$MODULE_DIR$/Basic/22_module" />
       </list>
     </option>
   </component>
