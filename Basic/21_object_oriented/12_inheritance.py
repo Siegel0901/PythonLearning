@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time : 2024/5/25 10:24
 # @Author : Siegel
-# @File : 09_inheritance.py
+# @File : 12_inheritance.py
 # @Software : PyCharm
 """
 继承

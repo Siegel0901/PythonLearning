@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time : 2024/5/25 10:33
 # @Author : Siegel
-# @File : 10_multiple_inheritance.py
+# @File : 13_multiple_inheritance.py
 # @Software : PyCharm
 """
 多继承语法:

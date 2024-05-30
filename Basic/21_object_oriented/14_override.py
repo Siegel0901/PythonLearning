@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time : 2024/5/25 10:44
 # @Author : Siegel
-# @File : 11_override.py
+# @File : 14_override.py
 # @Software : PyCharm
 """
 如果你的父类方法的功能不能满足你的需求,你可以在子类重写你父类的方法

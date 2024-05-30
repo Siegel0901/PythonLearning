@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time : 2024/5/25 11:04
 # @Author : Siegel
-# @File : 12_private_attribute_and_method.py
+# @File : 09_private_attribute_and_method.py
 # @Software : PyCharm
 """
 类属性与方法
@@ -18,8 +18,8 @@
 
 # 类的私有属性
 class JustCounter:
-    __secretCount = 0  # 私有变量
-    publicCount = 0  # 公开变量
+    __secretCount = 0  # 私有属性
+    publicCount = 0  # 公共属性
 
     def count(self):
         self.__secretCount += 1
@@ -81,3 +81,59 @@ dunder methods:     格式:__方法名__
     __mod__: 求余运算
     __pow__: 乘方
 """
+print("".center(60, '-'))
+
+"""
+私有化好处:
+    1. 隐藏属性不被外界随意修改
+    2. 通过声明get和set方法修改
+        def setXX(self, XX):
+            # 筛选赋值内容
+            if xxx符合条件:
+                self.__XX = XX
+            else:
+                不赋值
+        def getXX(self)
+            return self.__XX
+"""
+
+
+class Student:
+    __name = str()
+    __age = int()
+    __college = str()
+
+    # 定义get和set方法
+    def set_name(self, name):
+        self.__name = name
+
+    def set_age(self, age):
+        if 0 < age < 120:
+            self.__age = age
+        else:
+            print("age error")
+
+    def set_college(self, college):
+        self.__college = college
+
+    def get_name(self):
+        return self.__name
+
+    def get_age(self):
+        return self.__age
+
+    def get_college(self):
+        return self.__college
+
+    def __str__(self):
+        return "name={}, age={}, college={}".format(self.__name, self.__age, self.__college)
+
+
+student = Student()
+student.set_name('siegel')
+student.set_age(24)
+student.set_college('nankai')
+print(student)
+
+student.set_age(150)
+print(student.get_name(), student.get_age(), student.get_college())
